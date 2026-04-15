@@ -1,0 +1,7 @@
+path: D:/Hoc_Phan_HK2_Nam_3/fire_detection/FIREDETECTIONYOLOV8.v3i.yolov8
+
+train: train/images
+val: valid/images
+
+names:
+  0: fire
